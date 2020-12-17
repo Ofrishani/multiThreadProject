@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a3c7ebf-0991-4c34-b750-416c1541164c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V4csT9ugLD1VHi2ISkkPlTM9qF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MI6Runner">
+    <configuration name="MI6Runner" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.application.MI6Runner" />
+      <module name="MI6" />
+      <option name="PROGRAM_PARAMETERS" value="inputFile.json InventoryOutput.json DiaryOutput.json" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MI6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bgu.spl.mics" />
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.FutureTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MI6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bgu.spl.mics" />
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.InventoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageBrokerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MI6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bgu.spl.mics" />
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.MessageBrokerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageBrokerTest.register1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MI6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bgu.spl.mics" />
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.MessageBrokerTest" />
+      <option name="METHOD_NAME" value="register1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MI6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bgu.spl.mics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bgu.spl.mics" />
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.mics.SquadTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MI6Runner" />
+      <item itemvalue="JUnit.InventoryTest" />
+      <item itemvalue="JUnit.MessageBrokerTest" />
+      <item itemvalue="JUnit.MessageBrokerTest.register1" />
+      <item itemvalue="JUnit.FutureTest" />
+      <item itemvalue="JUnit.SquadTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SquadTest" />
+        <item itemvalue="JUnit.InventoryTest" />
+        <item itemvalue="JUnit.FutureTest" />
+        <item itemvalue="JUnit.MessageBrokerTest" />
+        <item itemvalue="JUnit.MessageBrokerTest.register1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a3c7ebf-0991-4c34-b750-416c1541164c" name="Default Changelist" comment="" />
+      <created>1576516015353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576516015353</updated>
+      <workItem from="1576516018600" duration="20000" />
+      <workItem from="1576516048277" duration="5960000" />
+      <workItem from="1576605842096" duration="8443000" />
+      <workItem from="1576617066759" duration="4986000" />
+      <workItem from="1576672627174" duration="9231000" />
+      <workItem from="1576693567496" duration="19066000" />
+      <workItem from="1577003725418" duration="4673000" />
+      <workItem from="1577040254880" duration="8084000" />
+      <workItem from="1577116013705" duration="11240000" />
+      <workItem from="1577127946724" duration="104000" />
+      <workItem from="1577178859288" duration="10976000" />
+      <workItem from="1577212923315" duration="9313000" />
+      <workItem from="1577225653030" duration="9736000" />
+      <workItem from="1577283278037" duration="9470000" />
+      <workItem from="1577293989116" duration="1714000" />
+      <workItem from="1577369843559" duration="32766000" />
+      <workItem from="1577615006475" duration="28154000" />
+      <workItem from="1577707548563" duration="5516000" />
+      <workItem from="1577713352470" duration="1468000" />
+      <workItem from="1577898626794" duration="3030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="172" width="979" height="530" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577901621231">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="-1601" y="283" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1576693592494" />
+    <state x="213" y="104" width="944" height="521" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577038795970" />
+    <state x="346" y="172" width="979" height="530" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1577901621231" />
+    <state x="401" y="200" width="1416" height="752" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577713718324" />
+    <state x="695" y="296" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1576617320889">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="695" y="296" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576617320889" />
+    <state x="891" y="371" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577712529333">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="891" y="371" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577712529333" />
+    <state x="850" y="443" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577040268108">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="-1109" y="535" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1576693575205" />
+    <state x="850" y="443" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577040268108" />
+    <state x="-1380" y="301" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1576693573722">
+      <screen x="-1920" y="124" width="1920" height="1040" />
+    </state>
+    <state x="-1380" y="301" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1576693573722" />
+    <state width="407" height="466" key="DebuggerActiveHint" timestamp="1577900806827">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="407" height="466" key="DebuggerActiveHint/0.0.1920.1044@0.0.1920.1044" timestamp="1577900806827" />
+    <state width="1874" height="273" key="GridCell.Tab.0.bottom" timestamp="1577901657130">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1577543970206" />
+    <state width="1237" height="97" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.124.1920.1040@0.0.1280.680" timestamp="1577457850499" />
+    <state width="1237" height="324" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577386958251" />
+    <state width="1874" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1577901657130" />
+    <state width="1807" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577714820827" />
+    <state width="1874" height="273" key="GridCell.Tab.0.center" timestamp="1577901657129">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.center/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1577543970206" />
+    <state width="1237" height="97" key="GridCell.Tab.0.center/0.0.1280.680/-1920.124.1920.1040@0.0.1280.680" timestamp="1577457850499" />
+    <state width="1237" height="324" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577386958251" />
+    <state width="1874" height="273" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1577901657129" />
+    <state width="1807" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577714820827" />
+    <state width="1874" height="273" key="GridCell.Tab.0.left" timestamp="1577901657129">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.left/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1577543970205" />
+    <state width="1237" height="97" key="GridCell.Tab.0.left/0.0.1280.680/-1920.124.1920.1040@0.0.1280.680" timestamp="1577457850498" />
+    <state width="1237" height="324" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577386958250" />
+    <state width="1874" height="273" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1577901657129" />
+    <state width="1807" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577714820827" />
+    <state width="1874" height="273" key="GridCell.Tab.0.right" timestamp="1577901657129">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.0.right/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1577543970206" />
+    <state width="1237" height="97" key="GridCell.Tab.0.right/0.0.1280.680/-1920.124.1920.1040@0.0.1280.680" timestamp="1577457850499" />
+    <state width="1237" height="324" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577386958251" />
+    <state width="1874" height="273" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1577901657129" />
+    <state width="1807" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577714820827" />
+    <state width="1874" height="273" key="GridCell.Tab.1.bottom" timestamp="1577901657130">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="454" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1577543397141" />
+    <state width="1237" height="371" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577386520052" />
+    <state width="1874" height="273" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1577901657130" />
+    <state width="1807" height="277" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577714820828" />
+    <state width="1874" height="273" key="GridCell.Tab.1.center" timestamp="1577901657130">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="454" key="GridCell.Tab.1.center/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1577543397141" />
+    <state width="1237" height="371" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577386520052" />
+    <state width="1874" height="273" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1577901657130" />
+    <state width="1807" height="277" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577714820828" />
+    <state width="1874" height="273" key="GridCell.Tab.1.left" timestamp="1577901657130">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="454" key="GridCell.Tab.1.left/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1577543397141" />
+    <state width="1237" height="371" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577386520052" />
+    <state width="1874" height="273" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1577901657130" />
+    <state width="1807" height="277" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577714820828" />
+    <state width="1874" height="273" key="GridCell.Tab.1.right" timestamp="1577901657130">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="454" key="GridCell.Tab.1.right/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1577543397141" />
+    <state width="1237" height="371" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577386520052" />
+    <state width="1874" height="273" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1577901657130" />
+    <state width="1807" height="277" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577714820828" />
+    <state x="317" y="118" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1576784408358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="317" y="118" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1576784408358" />
+    <state x="526" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576610758492" />
+    <state x="363" y="0" width="1536" height="1048" key="SettingsEditor" timestamp="1577615035855">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="-1457" y="289" key="SettingsEditor/0.0.1280.680/-1920.124.1920.1040@-1920.124.1920.1040" timestamp="1576693603891" />
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577369867914" />
+    <state x="363" y="0" width="1536" height="1048" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1577615035855" />
+    <state x="514" y="194" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1577283303410" />
+    <state x="603" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1577898686432">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="402" y="228" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577369848660" />
+    <state x="603" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1577898686432" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577713355318" />
+    <state x="440" y="115" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577901520324">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="440" y="115" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1577901520324" />
+    <state x="694" y="273" key="extract.method.dialog" timestamp="1577648772290">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="694" y="273" key="extract.method.dialog/0.0.1920.1044@0.0.1920.1044" timestamp="1577648772290" />
+    <state x="592" y="130" width="789" height="783" key="find.popup" timestamp="1577649869765">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="592" y="130" width="789" height="783" key="find.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1577649869765" />
+    <state x="638" y="158" width="710" height="789" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1577125218746" />
+    <state x="350" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1576783280758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="350" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1576783280758" />
+    <state x="446" y="232" key="run.anything.popup" timestamp="1577645404362">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1577386721067" />
+    <state x="446" y="232" key="run.anything.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1577645404362" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577376754124">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1577376754124" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/mics/example/publishers/ExampleMessageSender.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/mics/example/ExampleManager.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/mics/example/publishers/ExampleMessageSender.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/mics/example/publishers/ExampleMessageSender.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/mics/example/publishers/ExampleMessageSender.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/bgu/spl/mics/MessageBrokerTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/bgu/spl/mics/MessageBrokerTest.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/bgu/spl/mics/MessageBrokerTest.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/bgu/spl/mics/MessageBrokerTest.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/bgu/spl/mics/MessageBrokerTest.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/bgu/spl/mics/MessageBrokerTest.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/bgu/spl/mics/MessageBrokerTest.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/bgu/spl/mics/MessageBrokerTest.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/mics/application/MI6Runner.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MI6$ExampleManager.ic" NAME="ExampleManager Coverage Results" MODIFIED="1577122534497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bgu.spl.mics.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MI6$MI6Runner.ic" NAME="MI6Runner Coverage Results" MODIFIED="1576618025092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
